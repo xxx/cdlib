@@ -1,0 +1,51 @@
+Text pulled from http://www.genesismud.org/moreinfo/copyright
+
+CD gamedriver and the Mudlib, as made avaliable from the authors, are copyright Chalmers Datorforening, Goteborg, Sweden 1991, 1992, 1993. Parts of the package may be copyrighted by others or may be in the public domain. In these cases such information is stated in the individual files. The CD gamedriver is based on LPMud, developed by Lars Pensjo and others.
+
+Source code herein refers to the source code, and any executables created from the same source code.
+
+All rights reserved. Permission is granted to extend and modify the source code provided subject to the restriction that the source code may not be used in any way whatsoever for monetary gain.
+
+The grants made here may be subject to later change. Such a change will only apply to versions of the program made avaliable to the public after said change.
+
+Note that the modules mstring.c and mstring.h carries a separate copyright and limits: GNU License, copyright by Dave Richards (Cygnus) and Thorsten Lockert (Plugh) (1996)
+
+Genesis LPMUD
+FOREWORD
+
+This document describes the legal implications of writing code for use in Genesis and rules of conduct for handling code. This type of document is usually not necessary in leisure programming but one day there may be a problem and then it is better if things have been settled in a clear manner in advance. This Website (http://genesis.tekno.chalmers.se) is considered yet another part of the LPMUD.
+
+It also describes the ethical rules of conduct for handling the code that you as well as others have produced. These are very different from legal rules in the copyright notice. The legal rules say that you can't sue someone just because your code pops up somewhere else in the world. The ethical rules say that you are a bastard if you take someone elses code without permission and put it up somewhere else. They also say that if you behave like a bastard you can be thrown off the game.
+
+The reasons behind formulating things this way are several:
+
+    * Copyright issues and legal matters in this environment are extremely complicated and largely unexplored. The fact that programmers are sitting in a number of different countries, sometimes producing the code on their home machine and sometimes inside the game is one such complication. An other one is whether Genesis is to be considered as one single large program or if each object is a separate program. If the first alternative is the case it means that there is a collective copyright which belongs to all people who have written any part of the code we are using and if anyone wants to distribute any part of it he needs the consent of ALL the others. As the copyright notice is formulated it is always clear who holds the rights to a certain piece of code.
+    * Most of the code that is written for Genesis is the result of endeavors from a lot of people. To give the person actually writing the object all the rights would be to deny all the others theirs.
+    * Mud is a hobby and monetary interests, legal action and hassles about code ownership detract from the enjoyment of the hobby.
+    * A lot of people have an emotional investment in the code they have written and in Genesis in general. They deserve some sort of influence over the products of their imagination.
+    * Very drastic changes in the world detract from the players enjoyment of the game. The copyright notice allows the admins to keep the code running under all circumstances.
+    * It is very hard to foresee things such as net access and machine availability in the future. It should be possible to transfer Genesis to other competent hands without having to ask each and every wizard in the game if it's ok with him/her.
+    * Chalmers Datorforening is a non profit organization, and most members frown upon use of the equipment for commercial purposes.
+    * It could be argued that it is possible to develop code outside Genesis and then move it here. However it is not in the interest of anyone except the coding person that he/she retains all privileges.
+    * Please note that the copyright belongs to the producer of the code if he/she wishes so. He/she just promises to exercise the right in certain ways. The main effects of retaining copyright is that you have RIGHT to to be known as the author of the code.
+
+COPYRIGHT LICENSE
+
+   1. Genesis is is the name of the LPMud world run at Chalmers Datorforening (Chalmers Computer Society), Goteborg, Sweden. The code making up the world is termed Genesis and the society is termed CD in the following text.
+   2. All code that is produced in Genesis or imported to Genesis is subject to this license. If you have code that you for some reason can't or don't want to place under this license, don't import it.
+   3. All code in Genesis may be freely copied and used by anyone gaining access to it, with the exception that no code may for any reason be used for the purpose of making a monetary profit. This means that while you are allowed to run the mud, charging money from those who use it to cover the running costs, you may not make a profit from it.
+   4. All code in working order that is exported outside Genesis should contain this license, or a reference to it.
+   5. The copyright to all code that is not accompanied by an explicit copyright notice with the word Copyright, the year of creation and the name of the author is held by CD.
+   6. Swedish law applies to this license. Among other things this means that all code is protected, even if it doesn't contain a copyright notice.
+   7. Code that is left unattended for a long time may be turned over to an other wizard by a keeper. Unattended code in a domain becomes common domain property.
+   8. Keepers will only give permission to copy or distribute the code of a wizard if the wizard has been inaccessible for several weeks. The keeper will use his/her own judgement to determine if permission is warranted or not.
+   9. Chalmers Computer Society owns the machine that Genesis runs on. The society reserves the right to do anything (that does not violate the the copyright notice) it finds suitable with any information stored in the computer, but will under normal circumstances refrain from such actions without the consent of the authors.
+
+      The society is a democratic organization with bylaws, a board and regular meetings where decisions are made. The Genesis administrators, the board and the meetings are the only ones who can make decisions affecting Genesis. Individual members do not have the power to do so. Neither do individual members have the right to distribute code without permission from the wizard in question. 
+
+
+LPC tutorial Copying Conditions
+
+This tutorial was produced in good faith for use by people who like to program muds for their own pleasure. That means that I won't charge for using or distributing it provided that this is the purpose it's being used for.
+
+Specifically, I want to make sure that those who run commercial muds don't provide this manual as an aid to further their monetary aims. If they want it they can either pay me a lot of money for it or produce one of their own. 
